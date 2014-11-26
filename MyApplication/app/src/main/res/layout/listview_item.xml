@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<filemanager.android.ykolesnik.com.filemanager.CheckableRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <TextView android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:textColor="@color/abc_primary_text_disable_only_material_light"
+              android:id="@+id/tv_item_name"
+              android:gravity="right"
+              android:textAlignment="gravity"
+              android:text="asfdsfafd"
+              android:textSize="14pt"
+            />
+    <View android:layout_width="match_parent"
+          android:layout_height="1dp"
+          android:background="@color/dim_foreground_disabled_material_dark"/>
+
+</filemanager.android.ykolesnik.com.filemanager.CheckableRelativeLayout>
